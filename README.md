@@ -137,17 +137,15 @@ Contributions are welcome! If you'd like to improve this project, please fork th
 
 ---
 
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 - **Flask Documentation**: For providing great resources on Flask development.
 - **Flask-SQLAlchemy Documentation**: For database integration in Flask apps.
 - **Flask-Login Documentation**: For secure session management.
 - **cryptography Documentation**: For guidance on encryption and security.
+  
+---
+
+- ## Special Acknowledgement DR ZUBAIR AHMAD ASSISTANT PROFESSOR AT GIKI 
 
 ---
